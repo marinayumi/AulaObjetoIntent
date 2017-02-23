@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Exemplo de intent</string>
+    <string name="abrir_outra_janela">Abrir outra janela</string>
+</resources>
